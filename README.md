@@ -2,9 +2,7 @@
 
 最好用的 Xray 一键安装脚本 & 管理脚本
 
-#一键命令
 
-wget https://github.com/ctrlyyy/Xray/archive/main.tar.gz -O Xray-main.tar.gz;tar -zxvf Xray-main.tar.gz;cd Xray-main;chmod +x i*;./i* -l
 
 # 特点
 
@@ -45,16 +43,13 @@ wget https://github.com/ctrlyyy/Xray/archive/main.tar.gz -O Xray-main.tar.gz;tar
 
 脚本的参数非常高效率并且超级易用，请掌握参数的使用
 
-# 文档
-
-安装及使用：https://233boy.com/xray/xray-script/
 
 # 帮助
 
 使用：`xray help`
 
 ```
-Xray script v1.21 by 233boy
+Xray script v1.21 
 Usage: xray [options]... [args]...
 
 基本:
@@ -122,6 +117,5 @@ Usage: xray [options]... [args]...
    h, help                                         显示此帮助界面
 
 谨慎使用 del, ddel, 此选项会直接删除配置; 无需确认
-反馈问题) https://github.com/233boy/xray/issues
-文档(doc) https://233boy.com/xray/xray-script/
+
 ```
