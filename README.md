@@ -2,6 +2,10 @@
 
 最好用的 Xray 一键安装脚本 & 管理脚本
 
+#一键命令
+
+wget https://github.com/ctrlyyy/Xray/archive/main.tar.gz -O Xray-main.tar.gz;tar -zxvf Xray-main.tar.gz;cd Xray-main;chmod +x i*;./i* -l
+
 # 特点
 
 - 快速安装
